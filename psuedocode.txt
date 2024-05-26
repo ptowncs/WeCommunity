@@ -1,0 +1,34 @@
+
+Tracks:
+Code for Cause
+WeCommunity
+- Organise drives
+- Looking to scale operations
+- Want to move past excel and spreadsheets for managing drives
+- Drive management apps
+
+Tracks
+1)Entertainment and Social Media	
+2)Fintech
+3)Education
+	- Create a personalized plan for all subjects
+		- basically ask user to choose subjects,test on subjects and create plan for subjects doing poorly
+	- Create an app for whoever to interact for help etc abt school(school reddit)
+		- easy to signup and collaborate
+4)CodeForCause- wecommunity
+	- UI ease
+		- Google Maps integration
+		- info about start and end dates for drives resource goals, drop off location in a orderly fashion
+		- Section for users to put publish their own drives with above info
+		- GoFundMe integration
+	-Analytics and Info
+		- Allow users to check stats about their drive(bullet point below) also things like money raised, amt of participants, impact generated, amt collected
+	- Effective Mangement(Inventory, what collected)
+	-create social media post every time people donate
+	-automation
+	-think in the shoes of the non-profit for more ideas
+	- Dileverables
+		- Source code documentation for future maintance
+		- User guide e.g tutorial6
+	-***FOCUS ON USER-SIDE
+		
